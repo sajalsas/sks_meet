@@ -8,7 +8,7 @@ import 'react-datepicker/dist/react-datepicker.css'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SKSMEET",
+  title: "Hazel",
   description: "Video calling app",
   icons:{
     icon:'/icons/logo.svg'
