@@ -3,7 +3,7 @@ import Navbar from '@/components/Navbar'
 import Sidebar from '@/components/Sidebar'
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-  title: "SKSMEET",
+  title: "Hazel",
   description: "Video calling app",
   icons:{
     icon:'/icons/logo.svg'
